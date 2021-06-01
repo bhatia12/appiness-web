@@ -3,7 +3,7 @@ export const Gallery = (props) => {
     <div id='portfolio'>
       <div className='container'>
         <div className='section-title'>
-          <p>
+          <p style={{color: '#22B78E'}}>
           The warning signs of Immune deficiency
           </p>
         </div>
