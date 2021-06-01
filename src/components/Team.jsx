@@ -39,7 +39,7 @@ export const Team = (props) => {
                   <img className="ing" src="../img/Bitmap.png" alt="Bitman"/>
                 </div>
                 <div className="col-md-6 right">
-                  <div>John DOe</div>
+                  <div>John Doe</div>
                   <div>Softwere Engineer</div>
                 </div>
                 <div className="col-md-3">
@@ -58,7 +58,7 @@ export const Team = (props) => {
                   <img className="ing" src="../img/Bitmap.png" alt="Bitman"/>
                 </div>
                 <div className="col-md-6 right">
-                  <div>John DOe</div>
+                  <div>John Doe</div>
                   <div>Softwere Engineer</div>
                 </div>
                 <div className="col-md-3">
@@ -77,7 +77,7 @@ export const Team = (props) => {
                   <img className="ing" src="../img/Bitmap.png" alt="Bitman"/>
                 </div>
                 <div className="col-md-6 right">
-                  <div>John DOe</div>
+                  <div>John Doe</div>
                   <div>Softwere Engineer</div>
                 </div>
                 <div className="col-md-3">
@@ -96,7 +96,7 @@ export const Team = (props) => {
                   <img className="ing" src="../img/Bitmap.png" alt="Bitman"/>
                 </div>
                 <div className="col-md-6 right">
-                  <div>John DOe</div>
+                  <div>John Doe</div>
                   <div>Softwere Engineer</div>
                 </div>
                 <div className="col-md-3">
@@ -111,9 +111,6 @@ export const Team = (props) => {
             </div>
             
           </Carousel>
-          <div>
-          <button>Book An Appoinment</button>
-          </div>
           
         </div>
       </div>
